@@ -1,0 +1,13 @@
+services:
+  # docker run --name:db -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=bob -e MYSQL_DATABASE=wordpress 
+  # -e MYSQL_USER=toto -e MYSQL_PASSWORD=toto mysql:latest
+  database:
+    container_name: db
+    image: mysql:latest
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=bob
+      - MYSQL_DATABASE=wordpress
+      - MYSQL_USER=toto
+      - MYSQL_PASSWORD=toto
