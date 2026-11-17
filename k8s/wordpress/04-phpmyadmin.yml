@@ -12,6 +12,8 @@ spec:
     metadata:
       labels:
         app: phpmyadmin
+        net-backend: "true"
+        net-frontend: "true"
     spec:
       containers:
       - name: phpmyadmin
