@@ -24,7 +24,7 @@ spec:
         - name: MYSQL_ROOT_PASSWORD
           valueFrom: { secretKeyRef: { name: wp-secrets, key: ROOT_PWD } }
         - name: PMA_HOST
-          value: database
+          value: database-svc
         - name: PMA_PORT
           value: "3306"
 ---
@@ -34,11 +34,11 @@ metadata:
   name: phpmyadmin-svc
   namespace: wordpress
 spec:
-  type: LoadBalancer
+  type: ClusterIP
   selector:
     app: phpmyadmin
   ports:
-  - port: 8080
+  - port: 80
     targetPort: 80
 
 
