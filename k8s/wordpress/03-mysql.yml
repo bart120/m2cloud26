@@ -42,12 +42,12 @@ kind: Service
 metadata:
   name: database-svc
   namespace: wordpress
-  spec:
-    type: ClusterIP
-    selector:
-      app: database
-    ports:
-    - port: 3306
-      targetPort: 3306
+spec:
+  type: ClusterIP
+  selector:
+    app: database
+  ports:
+  - port: 3306
+    targetPort: 3306
 
 
