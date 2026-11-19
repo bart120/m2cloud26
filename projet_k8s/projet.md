@@ -143,18 +143,24 @@ Livrable :
     - Les flux réseau principaux (interne cluster / externe)
 
 Les groupes sont les suivants:
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- Kevin PARVIN, Guillaume LEGRAND, Hocine CAUCHOIX 
+- Alexandre JIN, Garcia Gabriel, Denieul Le Diraison Matthieu, Fouquet Julien 
+- Kenny Wachter, Othman Oumri, Makan Diawara, David Osseke 
+- Kevin NICOLLEAU, Samir HANNOU, Romain MESLIEN, Ousmane FAYE 
+- Migrel MEYOU, Sarah SAULET, Adéyèmi MOUNIROU, DAHOUMANE Louiza 
+- Lui, Rosan Niroshananth, Yasine Gharmoul, Naim MOHAMED 
+- DHOLKAWALA MurtazaMEGNI, SOLEFACK Jessie, BORICAUD Anthony, Danièle DEUMAGAM HAPPI 
+- Nolan Deruelle, Nicolas Blin
 
 Les horaires de passage des groupes sont les suivants:
-   
+- 9h30 => Migrel MEYOU, Sarah SAULET, Adéyèmi MOUNIROU, DAHOUMANE Louiza
+- 10h => Nolan Deruelle, Nicolas Blin
+- 10h30 DHOLKAWALA MurtazaMEGNI, SOLEFACK Jessie, BORICAUD Anthony, Danièle DEUMAGAM HAPPI 
+- 11h => Kenny Wachter, Othman Oumri, Makan Diawara, David Osseke
+- 11h30 => Kevin NICOLLEAU, Samir HANNOU, Romain MESLIEN, Ousmane FAYE 
+- 12h => Alexandre JIN, Garcia Gabriel, Denieul Le Diraison Matthieu, Fouquet Julien
+- 13h => Kevin PARVIN, Guillaume LEGRAND, Hocine CAUCHOIX 
+- 13h30 => Lui, Rosan Niroshananth, Yasine Gharmoul, Naim MOHAMED 
 
 
 Pour ceux dont le groupe n'est pas dans la liste, contactez-moi très rapidement à vincent.leclerc@ynov.com
