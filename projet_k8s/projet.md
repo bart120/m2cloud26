@@ -155,7 +155,7 @@ Les groupes sont les suivants:
 Les horaires de passage des groupes sont les suivants:
 - 9h30 => Migrel MEYOU, Sarah SAULET, Adéyèmi MOUNIROU, DAHOUMANE Louiza
 - 10h => Nolan Deruelle, Nicolas Blin
-- 10h30 DHOLKAWALA MurtazaMEGNI, SOLEFACK Jessie, BORICAUD Anthony, Danièle DEUMAGAM HAPPI 
+- 10h30 => DHOLKAWALA MurtazaMEGNI, SOLEFACK Jessie, BORICAUD Anthony, Danièle DEUMAGAM HAPPI 
 - 11h => Kenny Wachter, Othman Oumri, Makan Diawara, David Osseke
 - 11h30 => Kevin NICOLLEAU, Samir HANNOU, Romain MESLIEN, Ousmane FAYE 
 - 12h => Alexandre JIN, Garcia Gabriel, Denieul Le Diraison Matthieu, Fouquet Julien
